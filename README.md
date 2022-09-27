@@ -1,1 +1,1 @@
-"# flutter_bloc_clean_code" 
+# flutter_bloc_clean_code
